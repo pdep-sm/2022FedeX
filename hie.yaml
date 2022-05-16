@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "2022Fedex:lib"
+
+    - path: "./test"
+      component: "2022Fedex:test:2022Fedex-test"
